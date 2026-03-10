@@ -1,5 +1,5 @@
 ---
-pagetitle: "Your Project Title"
+pagetitle: "ECE 484 Skynet"
 format:
   html:
     toc: false
