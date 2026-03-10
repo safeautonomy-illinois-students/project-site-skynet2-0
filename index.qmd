@@ -8,7 +8,7 @@ format:
 
 ::: {.hero-section}
 
-# Your Project Title Here {.title}
+# ECE 484 Skynet {.title}
 
 ::: {.subtitle}
 A catchy one-line description of your project
@@ -24,7 +24,7 @@ A catchy one-line description of your project
 
 ::: {.affiliation-list}
 
-^1^University Name,  ^2^Research Lab / Company
+^1^University of Illinois Urbana-Champaign,  ^2^ECE 484
 
 :::
 
