@@ -95,7 +95,7 @@ approach outperforms existing methods by [metric improvement] while requiring
 
 ::: {.video-container}
 <!-- Replace with your YouTube or local video embed -->
-{{< video https://www.youtube.com/embed/cSQTZoZPJzs >}}
+{{< video static/videos/simulation_vid.mp4 >}}
 :::
 
 :::
