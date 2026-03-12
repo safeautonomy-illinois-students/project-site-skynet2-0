@@ -258,7 +258,7 @@ Here are some related works in this area:
   year      = {2019},
 }
 
-```bibtex
+
 @article{RacingLineOptimization,
   author    = {Ying Xiong},
   title     = {Racing Line Optimization},
@@ -267,7 +267,7 @@ Here are some related works in this area:
 }
 ```
 
-```bibtex
+
 @article{OptimalVeloictyProfileGeneration,
   author    = {E. Velenis and P.Tsiotras},
   title     = {Optimal Velocity Profile Generation for given
@@ -277,7 +277,7 @@ Acceleration Limits; The Half-Car Model Case},
 }
 ```
 
-```bibtex
+
 @article{PIDControlTechnologyInUnmannedAerialVehicles,
   author    = {Mingrui Shi},
   title     = {Application of PID Control Technology in Unmanned Aerial Vehicles},
@@ -285,7 +285,7 @@ Acceleration Limits; The Half-Car Model Case},
   year      = {2024},
 }
 
-```bibtex
+
 @article{reinforceIBM,
   author    = {Jacob Murel and Eda Kavlakoglu},
   title     = {What is reinforcement learning?},
