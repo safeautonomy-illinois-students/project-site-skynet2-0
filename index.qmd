@@ -8,7 +8,7 @@ format:
 
 ::: {.hero-section}
 
-# ECE 484 Skynet {.title}
+# Autonomous Drone Racing {.title}
 
 ::: {.subtitle}
 Let the drone flow like the wind
