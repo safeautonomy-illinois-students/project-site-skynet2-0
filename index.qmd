@@ -17,9 +17,9 @@ A catchy one-line description of your project
 ::: {.author-list}
 <span style = "color: blue;">
 
-**Mira Panigrahy**,
-**Allen Wu**,
-**Juheon Woo**
+**Mira Panigrahy**^1,2^,
+**Allen Wu**,^1,2^
+**Juheon Woo**^1,2^
 
 </span>
 :::
@@ -232,11 +232,11 @@ Interpolation demo unavailable at the moment
 
 Here are some related works in this area:
 
-- [Related Paper 1](https://example.com) introduces an idea similar to ours for [topic].
-- [Related Paper 2](https://example.com) also addresses [problem] using [approach].
-- [Related Paper 3](https://example.com) proposes [technique] which is complementary to our method.
-
-Check out [this survey](https://example.com) for a comprehensive overview of the field.
+- [Track Maneuvering using PID Control for Self-Driving Cars](https://www.researchgate.net/publication/331475267_Track_Maneuvering_using_PID_Control_for_Self-Driving_Cars) introduces PID control for self driving cars and this could be applicable to drones the same way
+- [Application of PID Control Technology in Unmanned Aerial Vehicles](https://www.researchgate.net/publication/386138601_Application_of_PID_Control_Technology_in_Unmanned_Aerial_Vehicles) introduces PID control specific to drones
+- [MIT](https://dspace.mit.edu/bitstream/handle/1721.1/64669/706825301-MIT.pdf) gives detailed explanation of how minimize path curvature within tracks
+- [Goergia Tech](https://dcsl.gatech.edu/papers/isie05b.pdf) explains computing velocity at different points of the track that will minimize the lap time
+- [IBM](https://www.ibm.com/think/topics/reinforcement-learning) explains reinforcement learning, which is a possible implementaion we might add
 :::
 
 :::
@@ -251,9 +251,48 @@ Check out [this survey](https://example.com) for a comprehensive overview of the
 ## BibTeX {.section-title}
 
 ```bibtex
+@article{TrackManeuveringusingPID,
+  author    = {Wael A. Farag},
+  title     = {Track Maneuvering using PID Control for Self-Driving Cars},
+  journal   = {ResearchGate},
+  year      = {2019},
+}
 
+```bibtex
+@article{RacingLineOptimization,
+  author    = {Ying Xiong},
+  title     = {Racing Line Optimization},
+  journal   = {DSpace@MIT},
+  year      = {2010},
+}
 ```
 
+```bibtex
+@article{OptimalVeloictyProfileGeneration,
+  author    = {E. Velenis and P.Tsiotras},
+  title     = {Optimal Velocity Profile Generation for given
+Acceleration Limits; The Half-Car Model Case},
+  journal   = {DCSL - Georgia Institute of Technology},
+  year      = {2005},
+}
+```
+
+```bibtex
+@article{PIDControlTechnologyInUnmannedAerialVehicles,
+  author    = {Mingrui Shi},
+  title     = {Application of PID Control Technology in Unmanned Aerial Vehicles},
+  journal   = {ResearchGate},
+  year      = {2024},
+}
+
+```bibtex
+@article{reinforceIBM,
+  author    = {Jacob Murel and Eda Kavlakoglu},
+  title     = {What is reinforcement learning?},
+  journal   = {IBM},
+  year      = {2024},
+}
+```
 :::
 
 
