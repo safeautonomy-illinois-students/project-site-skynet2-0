@@ -246,9 +246,9 @@ Here are some related works in this area:
 
 - [Track Maneuvering using PID Control for Self-Driving Cars](https://www.researchgate.net/publication/331475267_Track_Maneuvering_using_PID_Control_for_Self-Driving_Cars) introduces PID control for self driving cars and this could be applicable to drones the same way
 - [Application of PID Control Technology in Unmanned Aerial Vehicles](https://www.researchgate.net/publication/386138601_Application_of_PID_Control_Technology_in_Unmanned_Aerial_Vehicles) introduces PID control specific to drones
-- [MIT](https://dspace.mit.edu/bitstream/handle/1721.1/64669/706825301-MIT.pdf) gives detailed explanation of how minimize path curvature within tracks
-- [Goergia Tech](https://dcsl.gatech.edu/papers/isie05b.pdf) explains computing velocity at different points of the track that will minimize the lap time
-- [IBM](https://www.ibm.com/think/topics/reinforcement-learning) explains reinforcement learning, which is a possible implementaion we might add
+- [MIT research paper](https://dspace.mit.edu/bitstream/handle/1721.1/64669/706825301-MIT.pdf) gives detailed explanation of how minimize path curvature within tracks
+- [Goergia Tech research paper](https://dcsl.gatech.edu/papers/isie05b.pdf) explains computing velocity at different points of the track that will minimize the lap time
+- [IBM article](https://www.ibm.com/think/topics/reinforcement-learning) explains reinforcement learning, which is a possible implementaion we might add
 :::
 
 :::
