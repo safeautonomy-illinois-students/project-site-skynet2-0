@@ -269,7 +269,7 @@ Here are some related works in this area:
   journal   = {DSpace@MIT},
   year      = {2010},
 }
-```
+
 
 
 @article{OptimalVeloictyProfileGeneration,
@@ -279,7 +279,7 @@ Acceleration Limits; The Half-Car Model Case},
   journal   = {DCSL - Georgia Institute of Technology},
   year      = {2005},
 }
-```
+
 
 
 @article{PIDControlTechnologyInUnmannedAerialVehicles,
