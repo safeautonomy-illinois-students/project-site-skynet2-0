@@ -1,5 +1,5 @@
 ---
-pagetitle: "ECE 484 Skynet"
+pagetitle: "Autonomous Drone Racing"
 format:
   html:
     toc: false
