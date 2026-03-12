@@ -222,6 +222,15 @@ No qualitvative comparisons yet!
 Interpolation demo unavailable at the moment
 :::
 
+## Milestones and Teamwork {.section-title .text-center}
+::: {.content-text .text-center} 
+Milestone 1 (Week of 9th): Simulation Setup Complete, High Level Design In Progress
+Milestone 2: Upcoming
+
+Different parts of the path planning and controller functions will be divided evenly among each member. Path Planning will be worked on first along with
+waypoint generation and organization. Each member is expected to finish up their function before weekly meetings and implementation and debugging will be done altogether.
+
+:::
 
 <!-- ============================================================ -->
 <!-- RELATED WORK -->
