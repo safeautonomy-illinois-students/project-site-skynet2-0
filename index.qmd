@@ -97,7 +97,7 @@ waypoints, we utilize the motion capture to generate world coordinates of the tr
 the drone to follow at the start of the lap. We will then pass on this information to 
 the perception and planning phases of our pipeline.
 
-For perception, we will assume that the positions of the gates and obstacles are known 
+For perception, we utilize the motion capture to find the position waypoints 
 ahead of time. These positions can be defined in the world coordinate frame. 
 Since the drone’s pose is estimated using the motion capture system, 
 we can compare its current position to the known positions of the gates to determine 
@@ -107,15 +107,22 @@ the drone should follow to safely move through the course.
 
 The path planning unit will create the list of waypoints (or update them in real time) 
 that the quadrotor should take to successfully avoid collisions and go through all the 
-gates. This will be done by analyzing where the center of the gates are in the world 
-and creating a smooth path that goes through all of them while not hitting anything 
-else. The list of waypoints will be given to the control unit.
+gates in minimum lap time. This will be done by analyzing where the center of the gates 
+are in the world and creating a smooth path that goes through all of them while not 
+hitting anything else. An algorithm that finds the most efficient curvature routes
+combined with the most efficient velocity/acceleration will generate the list of waypoints.
+The list of waypoints will be given to the control unit.
 
 The control system has to update the quadrotor’s acceleration, velocity, heading, or 
 position so that it is able to move through all the waypoints smoothly. To implement 
 this successfully we will try different control models like PID, and tune parameters 
 through testing. We will finally have to convert the control data to motor control for 
 the quadrotor.
+
+Another way we could implement this is through the use of Reinforcement Learning. We could
+train a model and train it on different sets of tracks and after training, allow it to make
+the decision on the waypoints by itself. If successful, this would replace either the path
+planning or the local controller.
 
 
 ::: 
