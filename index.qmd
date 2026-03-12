@@ -130,6 +130,10 @@ the quadrotor.
 
 ::: 
 
+## Block Diagrams {.section-title}
+
+:::
+
 ![](static/images/CustomImage/block1.png){fig-align="center" width="800"}
 
 ![](static/images/CustomImage/block2.png){fig-align="center" width="800"}
