@@ -103,15 +103,13 @@ waypoints, we utilize the motion capture to generate world coordinates of the tr
 the drone to follow at the start of the lap. We will then pass on this information to 
 the perception and planning phases of our pipeline.
 
-For perception we have a couple options. Either we can have the exact positions of 
-objects and gates known in advance which we can directly feed to our Path Planning 
-unit, or if we do not, we can use a camera to do object detection. To do this, we will 
-need to collect a large amount of labeled data from the drone camera and use it to 
-train a convolution network so that it can accurately detect the location of objects 
-from the scene. Then, we use the quadrotor’s position and network output to convert 
-the objects in the camera scene from pixel coordinates to world coordinates. We will 
-then give this data to the path planning unit to figure out the waypoints for the path 
-that the drone should take.
+For perception, we will assume that the positions of the gates and obstacles are known 
+ahead of time. These positions can be defined in the world coordinate frame as part of 
+the course setup. Since the drone’s pose is estimated using the motion capture system, 
+we can compare its current position to the known positions of the gates to determine 
+where it should go next. We will pass the known gate coordinates can be passed directly 
+to the path planning unit, which will use them to generate the sequence of waypoints 
+the drone should follow to safely move through the course.
 
 The path planning unit will create the list of waypoints (or update them in real time) 
 that the quadrotor should take to successfully avoid collisions and go through all the 
