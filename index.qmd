@@ -90,7 +90,7 @@ generate control commands to execute that motion.
 ## Approach {.section-title}
 
 ::: {.content-text} 
-<span style="font-size:0.9em; font-weight: normal;">
+
 For pose estimation we need the pose, velocity, acceleration, and orientation 
 of the drone. Pose = (x, y, z, roll, pitch, yaw), Velocity = (vx, vy, vz). For the 
 pose, we will use the motion capture system to detect the x, y, and z coordinates as 
@@ -121,7 +121,7 @@ position so that it is able to move through all the waypoints smoothly. To imple
 this successfully we will try different control models like PID, and tune parameters 
 through testing. We will finally have to convert the control data to motor control for 
 the quadrotor.
-</span>
+
 
 ::: 
 
