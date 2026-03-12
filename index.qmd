@@ -104,10 +104,10 @@ the drone to follow at the start of the lap. We will then pass on this informati
 the perception and planning phases of our pipeline.
 
 For perception, we will assume that the positions of the gates and obstacles are known 
-ahead of time. These positions can be defined in the world coordinate frame as part of 
-the course setup. Since the drone’s pose is estimated using the motion capture system, 
+ahead of time. These positions can be defined in the world coordinate frame. 
+Since the drone’s pose is estimated using the motion capture system, 
 we can compare its current position to the known positions of the gates to determine 
-where it should go next. We will pass the known gate coordinates can be passed directly 
+where it should go next. We will pass the known gate coordinates directly 
 to the path planning unit, which will use them to generate the sequence of waypoints 
 the drone should follow to safely move through the course.
 
