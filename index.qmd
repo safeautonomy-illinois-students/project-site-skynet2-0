@@ -124,15 +124,14 @@ through testing. We will finally have to convert the control data to motor contr
 the quadrotor.
 
 
-::: {.columns}
+::: 
 
-::: {.column width="60%}
-![](static/images/CustomImage/block1.png)
-:::
+::: 
 
-::: {.column width="60%}
-![](static/images/CustomImage/block2.png)
-:::
+![](static/images/CustomImage/block1.png){fig-align="center" width="800"}
+
+![](static/images/CustomImage/block2.png){fig-align="center" width="800"}
+
 
 <!-- ============================================================ -->
 <!-- OVERVIEW / METHOD VIDEO -->
@@ -158,6 +157,7 @@ the quadrotor.
 
 ## Results {.section-title}
 
+/*
 ::: {.content-text}
 Provide a brief description of the results shown below. Explain what the
 reader should observe and why it matters.
@@ -176,7 +176,7 @@ reader should observe and why it matters.
 ::: {.result-card}
 ![Result 3 caption](static/images/placeholder-result3.svg)
 :::
-
+*/
 :::
 
 :::
