@@ -11,7 +11,7 @@ format:
 # ECE 484 Skynet {.title}
 
 ::: {.subtitle}
-A catchy one-line description of your project
+Let the drone flow like the wind
 :::
 
 ::: {.author-list}
