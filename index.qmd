@@ -157,26 +157,14 @@ the quadrotor.
 
 ## Results {.section-title}
 
-/*
+
 ::: {.content-text}
 Provide a brief description of the results shown below. Explain what the
 reader should observe and why it matters.
 :::
 
-::: {.results-grid}
-
-::: {.result-card}
-![Result 1 caption](static/images/placeholder-result1.svg)
-:::
-
-::: {.result-card}
-![Result 2 caption](static/images/placeholder-result2.svg)
-:::
-
-::: {.result-card}
-![Result 3 caption](static/images/placeholder-result3.svg)
-:::
-*/
+::: {.content-text} 
+No results yet!
 :::
 
 :::
@@ -195,22 +183,8 @@ Describe the comparison setup — which baselines are you comparing against, and
 what should the reader look for in the side-by-side results.
 :::
 
-::: {.comparison-grid}
-
-::: {.comparison-item}
-![Ours](static/images/placeholder-ours.svg)
-
-**Ours**
-:::
-
-::: {.comparison-item}
-![Baseline A](static/images/placeholder-baseline.svg)
-
-**Baseline A**
-:::
-
-:::
-
+::: {.content-text}
+No qualitvative comparisons yet!
 :::
 
 
