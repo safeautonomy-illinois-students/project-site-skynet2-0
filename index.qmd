@@ -214,7 +214,8 @@ No qualitvative comparisons yet!
 ::: {.section-container}
 
 ## Interpolation Demo {.section-title .text-center}
-:::
+
+::: {.content-text .text-center} 
 Interpolation Demo Unavailable at the moment
 :::
 
@@ -250,12 +251,7 @@ Check out [this survey](https://example.com) for a comprehensive overview of the
 ## BibTeX {.section-title}
 
 ```bibtex
-@article{yourname2026project,
-  author    = {Author One and Author Two and Author Three},
-  title     = {Your Project Title Here},
-  journal   = {Conference or Journal Name},
-  year      = {2026},
-}
+
 ```
 
 :::
