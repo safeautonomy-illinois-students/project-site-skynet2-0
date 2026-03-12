@@ -32,11 +32,8 @@ A catchy one-line description of your project
 
 ::: {.button-row}
 
-[[{{< fa file-pdf >}} Paper]{.btn-text}](https://arxiv.org/pdf/XXXX.XXXXX){.btn .btn-primary}
-[[{{< fa brands arxiv >}} arXiv]{.btn-text}](https://arxiv.org/abs/XXXX.XXXXX){.btn .btn-primary}
-[[{{< fa video >}} Video]{.btn-text}](https://www.youtube.com/watch?v=cSQTZoZPJzs){.btn .btn-primary}
-[[{{< fa brands github >}} Code]{.btn-text}](https://github.com/){.btn .btn-primary}
-[[{{< fa database >}} Data]{.btn-text}](https://example.com){.btn .btn-primary}
+[[{{< fa brands github >}} Code]{.btn-text}](https://github.com/safeautonomy-illinois-students/project-site-skynet2-0.git){.btn .btn-primary}
+
 
 :::
 
@@ -130,12 +127,14 @@ the quadrotor.
 
 ::: 
 
-## Block Diagrams {.section-title}
-:::
-![](static/images/CustomImage/block1.png){fig-align="center" width="800"}
+## Non-RL Way {.section-title}
 
-![](static/images/CustomImage/block2.png){fig-align="center" width="800"}
-:::
+![](static/images/CustomImage/block4.png){fig-align="center" width="800"}
+
+## RL Way {.section-title}
+
+![](static/images/CustomImage/block5.png){fig-align="center" width="800"}
+
 
 :::{.content-text}
 <span style="font-size:0.8em; font-weight: normal;">
