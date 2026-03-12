@@ -16,9 +16,9 @@ A catchy one-line description of your project
 
 ::: {.author-list}
 
-[**Mira Panigrahy**](https://example.com)^1^,
-[**Allen Wu**](https://example.com)^2^,
-[**Juheon Woo**](https://example.com)^1,2^
+[**Mira Panigrahy**],
+[**Allen Wu**],
+[**Juheon Woo**]
 
 :::
 
@@ -134,13 +134,18 @@ the quadrotor.
 
 :::{.content-text}
 <span style="font-size:0.8em; font-weight: normal;">
-Image sources
-Image under Pose Estimation: 
-https://www.researchgate.net/figure/UAV-pose-estimation-based-on-DS-TWR-After-the-configuration-of-the-fixed-anchors-is_fig2_328090941
-Image under Path Planning: 
-https://robotics.stackexchange.com/questions/110690/how-to-extend-the-reach-of-global-path-planning-in-nav2-for-large-open-areas
-Image under Control:
-https://kritikalsolutions.com/enhancing-drone-safety-with-obstacle-avoidance/
+
+**Image sources**
+
+-Pose Estimation image:
+(https://www.researchgate.net/figure/UAV-pose-estimation-based-on-DS-TWR-After-the-configuration-of-the-fixed-anchors-is_fig2_328090941){style="text-decoration: underline;"}
+
+-Path Planning image: 
+(https://robotics.stackexchange.com/questions/110690/how-to-extend-the-reach-of-global-path-planning-in-nav2-for-large-open-areas){style="text-decoration: underline;"}
+
+-Control image:
+(https://kritikalsolutions.com/enhancing-drone-safety-with-obstacle-avoidance/){style="text-decoration: underline;"}
+
 </span>
 :::
 
