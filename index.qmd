@@ -86,6 +86,7 @@ No abstract yet
 ## Approach {.section-title}
 
 ::: {.approach-text}
+
 Our goal is to program a quadrotor to autonomously navigate through a series of 
 gates or objects without collisions. In order to implement this, we will have four 
 phases: Pose Estimation, Perception, Path Planning, and Control. 
@@ -93,7 +94,14 @@ phases: Pose Estimation, Perception, Path Planning, and Control.
 For pose estimation we need the pose, velocity, acceleration, and orientation 
 of the drone. Pose = (x, y, z, roll, pitch, yaw), Velocity = (vx, vy, vz). For the 
 pose, we will use the motion capture system to detect the x, y, and z coordinates as 
-well as orientation in the world coordinate frame, keeping track of the state estimation. We will use the IMU (Inertial Measurement Unit) to estimate which way the drone is facing and its linear acceleration using a gyroscope and accelerometer. We can also use a Range Sensor to estimate the quadrotor’s exact altitude. Similarly with the track waypoints, we utilize the motion capture to generate world coordinates of the track for the drone to follow at the start of the lap. We will then pass on this information to the perception and planning phases of our pipeline.
+well as orientation in the world coordinate frame, keeping track of the state estimation. 
+We will use the IMU (Inertial Measurement Unit) to estimate which way the drone is 
+facing and its linear acceleration using a gyroscope and accelerometer. We can also 
+use a Range Sensor to estimate the quadrotor’s exact altitude. Similarly with the track 
+waypoints, we utilize the motion capture to generate world coordinates of the track for 
+the drone to follow at the start of the lap. We will then pass on this information to 
+the perception and planning phases of our pipeline.
+
 :::
 
 :::
