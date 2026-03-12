@@ -216,7 +216,7 @@ No qualitvative comparisons yet!
 ## Interpolation Demo {.section-title .text-center}
 
 ::: {.content-text .text-center} 
-Interpolation Demo Unavailable at the moment
+Interpolation demo unavailable at the moment
 :::
 
 
