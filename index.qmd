@@ -48,7 +48,7 @@ A catchy one-line description of your project
 
 ::: {.hero-teaser}
 
-![](static/images/CustomImage/block4.png){fig-align="center" width="800"}
+![](static/images/CustomImage/block7.png){fig-align="center" width="800"}
 
 :::
 
