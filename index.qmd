@@ -132,6 +132,18 @@ the quadrotor.
 
 ![](static/images/CustomImage/block2.png){fig-align="center" width="800"}
 
+:::{.content-text}
+<span style="font-size:0.8em; font-weight: normal;">
+Image sources
+Image under Pose Estimation: 
+https://www.researchgate.net/figure/UAV-pose-estimation-based-on-DS-TWR-After-the-configuration-of-the-fixed-anchors-is_fig2_328090941
+Image under Path Planning: 
+https://robotics.stackexchange.com/questions/110690/how-to-extend-the-reach-of-global-path-planning-in-nav2-for-large-open-areas
+Image under Control:
+https://kritikalsolutions.com/enhancing-drone-safety-with-obstacle-avoidance/
+</span>
+:::
+
 
 <!-- ============================================================ -->
 <!-- OVERVIEW / METHOD VIDEO -->
@@ -163,7 +175,7 @@ Provide a brief description of the results shown below. Explain what the
 reader should observe and why it matters.
 :::
 
-::: {.content-text} 
+::: {.content-text .text-center} 
 No results yet!
 :::
 
@@ -183,7 +195,7 @@ Describe the comparison setup — which baselines are you comparing against, and
 what should the reader look for in the side-by-side results.
 :::
 
-::: {.content-text}
+::: {.content-text .text-center}
 No qualitvative comparisons yet!
 :::
 
@@ -194,34 +206,9 @@ No qualitvative comparisons yet!
 
 ::: {.section-container}
 
-## Interpolation Demo {.section-title}
-
-::: {.content-text}
-If your method supports interpolation or continuous control, you can add an
-interactive slider here. The example below shows how to set one up.
+## Interpolation Demo {.section-title .text-center}
 :::
-
-::: {.interpolation-panel}
-
-::: {.interpolation-endpoints}
-![Start](static/images/placeholder-start.svg){.endpoint-img}
-
-![End](static/images/placeholder-end.svg){.endpoint-img}
-:::
-
-<input type="range" min="0" max="100" value="50" class="interpolation-slider" id="interpolation-slider">
-<div id="interpolation-value" class="interpolation-value">50%</div>
-
-<script>
-  const slider = document.getElementById('interpolation-slider');
-  const display = document.getElementById('interpolation-value');
-  slider.addEventListener('input', function() {
-    display.textContent = this.value + '%';
-  });
-</script>
-
-:::
-
+Interpolation Demo Unavailable at the moment
 :::
 
 
