@@ -130,6 +130,7 @@ the quadrotor.
 ## Non-RL Way {.section-title}
 
 ![](static/images/CustomImage/block4.png){fig-align="center" width="800"}
+![](static/images/CustomImage/block6.png){fig-align="center" width="800"}
 
 ## RL Way {.section-title}
 
