@@ -15,11 +15,13 @@ A catchy one-line description of your project
 :::
 
 ::: {.author-list}
+<span style = "color: blue;">
 
-[**Mira Panigrahy**],
-[**Allen Wu**],
-[**Juheon Woo**]
+**Mira Panigrahy**,
+**Allen Wu**,
+**Juheon Woo**
 
+</span>
 :::
 
 ::: {.affiliation-list}
