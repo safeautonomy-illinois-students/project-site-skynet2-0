@@ -70,16 +70,8 @@ A catchy one-line description of your project
 ## Abstract {.section-title}
 
 ::: {.abstract-text}
-Replace this text with your project abstract. Describe the problem you are
-solving, the key insight or contribution of your work, and the main results.
-Keep it concise — typically 150–250 words. You can use **bold** and *italic*
-formatting to emphasize key terms.
+How do you plan to solve the problem? We recognize that this may be fluid throughout the semester, but we would like to see effort of research put into your approach. Include what sensors/information you will need. A block diagram will aid you in your explanation.
 
-For example: We present a novel approach to [task] that achieves
-state-of-the-art results on [benchmark]. Our method leverages [key technique]
-to overcome [limitation of prior work]. Experiments demonstrate that our
-approach outperforms existing methods by [metric improvement] while requiring
-[efficiency gain].
 :::
 
 :::
