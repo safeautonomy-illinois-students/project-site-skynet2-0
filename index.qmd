@@ -140,13 +140,13 @@ the quadrotor.
 **Image sources**
 
 -Pose Estimation image:
-(https://www.researchgate.net/figure/UAV-pose-estimation-based-on-DS-TWR-After-the-configuration-of-the-fixed-anchors-is_fig2_328090941){style="text-decoration: underline;"}
+[ResearchGate](https://www.researchgate.net/figure/UAV-pose-estimation-based-on-DS-TWR-After-the-configuration-of-the-fixed-anchors-is_fig2_328090941){style="text-decoration: underline;"}
 
 -Path Planning image: 
-(https://robotics.stackexchange.com/questions/110690/how-to-extend-the-reach-of-global-path-planning-in-nav2-for-large-open-areas){style="text-decoration: underline;"}
+[Robotics StackExchange](https://robotics.stackexchange.com/questions/110690/how-to-extend-the-reach-of-global-path-planning-in-nav2-for-large-open-areas){style="text-decoration: underline;"}
 
 -Control image:
-(https://kritikalsolutions.com/enhancing-drone-safety-with-obstacle-avoidance/){style="text-decoration: underline;"}
+[Kritical Solutions](https://kritikalsolutions.com/enhancing-drone-safety-with-obstacle-avoidance/){style="text-decoration: underline;"}
 
 </span>
 :::
