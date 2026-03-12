@@ -85,7 +85,7 @@ No abstract yet
 
 ## Approach {.section-title}
 
-::: {.approach-text}
+::: {.abstract-text}
 
 Our goal is to program a quadrotor to autonomously navigate through a series of 
 gates or objects without collisions. In order to implement this, we will have four 
